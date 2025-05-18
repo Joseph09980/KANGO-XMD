@@ -1,7 +1,7 @@
 {
-  "name": "Queen Adiza",
+  "name": "@dmin_personal_assistant",
   "version": "2.4.2",
-  "description": "Adiza, the best WhatsApp Bot",
+  "description": "@dmin_ai, the best WhatsApp Bot",
   "logo": "https://files.catbox.moe/rhjkfl.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Matri199/Queen-Adiza",
@@ -12,32 +12,32 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Adiza session id here; must start with QUEEN-ADIZA~",
-      "value": "",
-      "required": false
+      "value": "KANGO~TNUyRYjK#lyO-yqrAjnLlsdZZvK9jLh7ZHoR4j3NKUmHxSoRVRcE",
+      "required": true
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Adiza-Bot",
-      "required": false
+      "value": "@dmin_personal_assistant",
+      "required": true
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "2349162315376",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Joseph",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Adiza",
-      "required": false
+      "value": "@dmin_ai",
+      "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Adiza",
+      "value": "Joseph",
       "required": false
     },
     "HEROKU_API_KEY": {
