@@ -1,4 +1,4 @@
-you//-------------------[ BOT SETTINGS ]------------------// 
+//-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : @dmin_personal_assistant 
 // @author : Joseph 
