@@ -1,7 +1,7 @@
 
 {
-    "bot-name": "KANGO-XMD",
-    "description": "Kango XMD v2 made with love from creator in Ghana (Hector Manuel)",
+    "bot-name": "@dmin_personal_assistant",
+    "description": "@dmin_personal_assistant made with love from creator (Joseph)",
     "logo": "https://files.catbox.moe/vikf6c.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://kango-ef1f620b32d8.herokuapp.com/pair",
@@ -16,22 +16,22 @@
         },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "2349162315376",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Joseph",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Jin",
+      "value": "Josph",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "@dmin_ai",
       "required": true
  
     },
